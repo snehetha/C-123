@@ -1,0 +1,33 @@
+.back{
+    background-image: url("download.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Cantarell', sans-serif;
+
+}
+.heading{
+    background-color: darkviolet;
+    color: ghostwhite;
+    margin: 0px;
+    width: 100%;
+    font-size: 35px;
+    box-shadow: 5px 5px 5px blanchedalmond;
+    font-variant: small-caps;
+    letter-spacing: 10px;
+
+}
+.copyrightfooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: powderblue;
+    color: purple;
+    line-height: 3;
+    font-size: 35px;
+    box-shadow: 5px 5px 5px purple;
+}
+.note{
+    color: seashell;
+    font-size: 35px;
+}
